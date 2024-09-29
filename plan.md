@@ -1,7 +1,7 @@
-#Steps
+# Steps
 
-#Hardware needed
+# Hardware needed
 
-#Resources
+# Resources
 
-#Logic stuff?
+# Logic stuff?
